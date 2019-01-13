@@ -1,5 +1,4 @@
-# Othello
-## The Board Game
+# Othello: The Board Game
 
 This repo consists of the code files that were part of my final project in CS5001: Intensive Foundations of Computer Science at Northeastern University - Seattle. The project consisted of programming the board game Othello, also known as Reversi. You can read more about the game on [Wikipedia](https://en.wikipedia.org/wiki/Reversi). Note that this version of the game is single player, as you play against the computer.
 
