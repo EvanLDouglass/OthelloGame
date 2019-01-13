@@ -22,7 +22,6 @@ class GameBoard:
     contains the functionality and logic allowing for gameplay, including
     a simple computer player AI.
     '''
-# If the file doesn't exist, create a new one and make the first entry
     ## SIGNATURE
     # __init__ :: (Object, Integer) => Void
     def __init__(self, n):
